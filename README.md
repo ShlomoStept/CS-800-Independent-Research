@@ -22,28 +22,26 @@ The curriculum is divided into 12 chapters - each of which are intended to be co
 
 ## Each chapter has three main sections:
 
-- **Main Paper**: A small amount of material covering the most basic or important ideas of the chapter. Often a particular section of a paper will be singled out, and it's not necessary to read the rest of the paper.
-- **Summary of Paper** My personal notes on the Main Paper.
-- **Code/Model Implimentation**: An implimentation of the model described by the Chapter's main paper.
+1. **Main Paper**: A single Main Paper will be singled out, to be studied in depth and implimented. Must read in enteirty and compose summart/deep-dive. 
+2. **Summary of Paper** My personal summary/notes on the Main Paper.
+3. **Code/Model Implimentation**: An implimentation of the model described by the Main Paper.
 
 - **BONUS: Optional reading**: Related material that's still very relevant to the chapter, but can be either skimmed or skipped entirely and used as a reference later on.
 
 
 
-## Alternative Usefull Sources
+## Usefull Sources
 
-Some textbook suggestions:
+TextBooks:
 
 - [Goodfellow et al](https://www.deeplearningbook.org/) - Probably still the best deep learning-specific textbook, although it can be unclear in places. Has no exercises.
 - [Jared Kaplan's notes for physicists](https://sites.krieger.jhu.edu/jared-kaplan/files/2019/04/ContemporaryMLforPhysicists.pdf) - An extended introduction to deep learning from a fairly theoretical perspective. Also has no exercises.
-- [Sutton & Barto](http://www.incompleteideas.net/book/the-book.html) - A good introduction to reinforcement learning from first principles. Has exercises.
-- [Murphy](https://www.google.com/search?q=machine+learning+a+probabilistic+perspective), [Bishop](https://www.google.com/search?q=pattern+recognition+and+machine+learning) and [ESL](https://www.google.com/search?q=elements+of+statistical+learning) - Classic machine learning textbooks. These cover a lot of material that isn't that relevant to deep learning, but it can be nice to have a broader perspective, and they have plenty of exercises. Overall they wouldn't be my first choice but they can be useful.
 
-Some suggestions for more advanced online courses:
+
+Online courses:
 
 - [Deep Learning Specialization from deeplearning.ai](https://www.deeplearning.ai/program/deep-learning-specialization/) - A much longer extension of the machine learning Coursera course linked above.
 - [Deep Learning Udacity course](https://www.udacity.com/course/deep-learning-nanodegree--nd101) - Another longer deep learning course.
-- [Reinforcement Learning Coursera course](https://www.ualberta.ca/admissions-programs/online-courses/reinforcement-learning/index.html) - A reinforcement learning course based on Sutton & Barto.
 
 ## Additional advice
 
