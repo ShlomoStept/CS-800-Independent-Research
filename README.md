@@ -3,19 +3,30 @@
 The curriculum is divided into 12 chapters - each of which are intended to be completed in 1 week :
 **WARNING**:At Week 8 - an assesment of the weekly progresion will be made, to update the curriculum plan according to the pace 
 
+## 16 Week Plan : *(~ 1 Chapter per week)*
 - [Chapter 0: Auto Differentiation](0-MicroGrad.md)
 - [Chapter 1: Transformers](1-Transformers.md)
+- [Chapter 2: TODO](TODO.md)
+- [Chapter 3: TODO](TODO.md)
+- [Chapter 4: TODO](TODO.md)
+- [Chapter 5: TODO](TODO.md)
+- [Chapter 6: TODO](TODO.md)
+- [Chapter 7: TODO](TODO.md)
+- [Chapter 8: TODO](TODO.md)
+- [Chapter 9: TODO](TODO.md)
+- [Chapter 10: TODO](TODO.md)
+- [Chapter 11: TODO](TODO.md)
+- [Chapter 12: TODO](TODO.md)
+- [Chapter 13-16: TODO](TODO.md)
 
 
-Each chapter has three sections:
+## Each chapter has three main sections:
 
-- **Recommended reading**: A small amount of material covering the most basic or important ideas of the chapter. Often a particular section of a paper will be singled out, and it's not necessary to read the rest of the paper.
-- **Optional reading**: Related material that's still very relevant to the chapter, but can be either skimmed or skipped entirely and used as a reference later on.
+- **Main Paper**: A small amount of material covering the most basic or important ideas of the chapter. Often a particular section of a paper will be singled out, and it's not necessary to read the rest of the paper.
 - **Summary of Paper** My personal notes on the Main Paper.
 - **Code/Model Implimentation**: An implimentation of the model described by the Chapter's main paper.
 
-Each chapter should take between half a week and 2 weeks of full-time study, depending on the chapter and how much depth you go into, but don't be discouraged if it takes longer than this.
-
+- **BONUS: Optional reading**: Related material that's still very relevant to the chapter, but can be either skimmed or skipped entirely and used as a reference later on.
 
 
 
@@ -36,6 +47,4 @@ Some suggestions for more advanced online courses:
 
 ## Additional advice
 
-These are miscellaneous opinions based on personal experience, so take them with a pinch of salt. [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html) is also worth a read. For advice on pursuing a career in technical AI alignment, I recommend [this guide](https://forum.effectivealtruism.org/posts/7WXPkpqKGKewAymJf/how-to-pursue-a-career-in-technical-ai-alignment).
-
-I've emphasized exercises throughout this page, because they force you to think ideas through in a way that passive learning doesn't. In my experience, this is especially important when learning about unfamiliar topics. Once you have built up experience in an area, it's much easier to remember something in that area that you've only seen or heard once, because of how it fits into your existing web of knowledge.
+These are miscellaneous opinions based on personal experience, so take them with a pinch of salt. [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html) is also worth a read.
