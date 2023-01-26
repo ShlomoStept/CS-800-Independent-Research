@@ -1,7 +1,7 @@
 # CS-800-Independent-Research Curriculum
 
 The curriculum is divided into 12 chapters - each of which are intended to be completed in 1 week :
-- At Week 8 : we will reasses the progression and update the curriculum plan accordingly 
+**WARNING**:At Week 8 - an assesment of the weekly progresion will be made, to update the curriculum plan according to the pace 
 
 - [Chapter 0: Auto Differentiation](0-MicroGrad.md)
 - [Chapter 1: Transformers](1-Transformers.md)
